@@ -1,0 +1,53 @@
+﻿country_code,region_code,region_iso,region_fips,region_name,region_name_nd,user_defined
+US,AK,,US02,Alaska,Alaska,0
+US,AL,,US01,Alabama,Alabama,0
+US,AR,,US05,Arkansas,Arkansas,0
+US,AZ,,US04,Arizona,Arizona,0
+US,CA,,US06,California,California,0
+US,CO,,US08,Colorado,Colorado,0
+US,CT,,US09,Connecticut,Connecticut,0
+US,DC,,US11,District of Columbia,District of Columbia,0
+US,DE,,US10,Delaware,Delaware,0
+US,FL,,US12,Florida,Florida,0
+US,GA,,US13,Georgia,Georgia,0
+US,HI,,US15,Hawaii,Hawaii,0
+US,IA,,US19,Iowa,Iowa,0
+US,ID,,US16,Idaho,Idaho,0
+US,IL,,US17,Illinois,Illinois,0
+US,IN,,US18,Indiana,Indiana,0
+US,KS,,US20,Kansas,Kansas,0
+US,KY,,US21,Kentucky,Kentucky,0
+US,LA,,US22,Louisiana,Louisiana,0
+US,MA,,US25,Massachusetts,Massachusetts,0
+US,MD,,US24,Maryland,Maryland,0
+US,ME,,US23,Maine,Maine,0
+US,MI,,US26,Michigan,Michigan,0
+US,MN,,US27,Minnesota,Minnesota,0
+US,MO,,US29,Missouri,Missouri,0
+US,MS,,US28,Mississippi,Mississippi,0
+US,MT,,US30,Montana,Montana,0
+US,NC,,US37,North Carolina,North Carolina,0
+US,ND,,US38,North Dakota,North Dakota,0
+US,NE,,US31,Nebraska,Nebraska,0
+US,NH,,US33,New Hampshire,New Hampshire,0
+US,NJ,,US34,New Jersey,New Jersey,0
+US,NM,,US35,New Mexico,New Mexico,0
+US,NV,,US32,Nevada,Nevada,0
+US,NY,,US36,New York,New York,0
+US,OH,,US39,Ohio,Ohio,0
+US,OK,,US40,Oklahoma,Oklahoma,0
+US,OR,,US41,Oregon,Oregon,0
+US,PA,,US42,Pennsylvania,Pennsylvania,0
+US,PR,,US43,Puerto Rico,Puerto Rico,0
+US,RI,,US44,Rhode Island,Rhode Island,0
+US,SC,,US45,South Carolina,South Carolina,0
+US,SD,,US46,South Dakota,South Dakota,0
+US,TN,,US47,Tennessee,Tennessee,0
+US,TX,,US48,Texas,Texas,0
+US,UT,,US49,Utah,Utah,0
+US,VA,,US51,Virginia,Virginia,0
+US,VT,,US50,Vermont,Vermont,0
+US,WA,,US53,Washington,Washington,0
+US,WI,,US55,Wisconsin,Wisconsin,0
+US,WV,,US54,West Virginia,West Virginia,0
+US,WY,,US56,Wyoming,Wyoming,0
